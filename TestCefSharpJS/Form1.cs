@@ -39,10 +39,7 @@ namespace TestCefSharpJS
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
-            chromeBrowser.Dispose();
-            Cef.Shutdown();
-            Application.Exit();
-            //Close();
+            
         }
     }
 }
