@@ -1,1 +1,0 @@
-D:\Dokumenty\Visual Studio 2013\Projects\TestCefSharpJS\TestCefSharpJS\bin\Release\TestCefSharpJS.exe.config
